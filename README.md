@@ -37,3 +37,5 @@ Some of the highlights are presented below.
 <p align="center">
   Overfitting an LSTM for image captioning. At the top the caption outputted by the model makes sense. At the bottom, the caption of an image from the validation set is nonsense.
 </p>
+
+For assignments 2 and 3 you get the choice to use Tensorflow or Pytorch, I used Pytorch in all cases. The assignments are those from 2017 rather than the most frequent ones, because this is the year the lectures were recorded.
