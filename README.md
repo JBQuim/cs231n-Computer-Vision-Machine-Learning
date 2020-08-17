@@ -35,5 +35,5 @@ Some of the highlights are presented below.
 </p>
 
 <p align="center">
-  Overfitting an LSTM for image captioning. On the left the caption outputted by the model makes sense. On the right, the caption of an image from the validation set is nonsense.
+  Overfitting an LSTM for image captioning. At the top the caption outputted by the model makes sense. At the bottom, the caption of an image from the validation set is nonsense.
 </p>
