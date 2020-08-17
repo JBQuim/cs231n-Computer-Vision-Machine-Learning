@@ -2,6 +2,8 @@
  
 My solutions to the assignments of Stanford's computer vision course, cs231n. Going through the lectures and assignments was very rewarding and a great learning experience.
 
+For assignments 2 and 3 you get the choice to use Tensorflow or Pytorch, I used Pytorch in all cases. The assignments are those from 2017 rather than the most recent ones, because this is the year the lectures were recorded.
+
 By the end of the assignments, I had learnt enough to make past assignments a lot more elegant. If I was to do them again the code would probably be a lot cleaner.
 
 Some of the highlights are presented below.
@@ -37,5 +39,3 @@ Some of the highlights are presented below.
 <p align="center">
   Overfitting an LSTM for image captioning. At the top the caption outputted by the model makes sense. At the bottom, the caption of an image from the validation set is nonsense.
 </p>
-
-For assignments 2 and 3 you get the choice to use Tensorflow or Pytorch, I used Pytorch in all cases. The assignments are those from 2017 rather than the most frequent ones, because this is the year the lectures were recorded.
